@@ -14,6 +14,7 @@
 > webinterface/public_html/
 
 ### Структура JSON системы тестирования кода
+Больше документации тут: https://judge.sanchozzz.beget.tech/#submissions
 ```
 {
 "source_code": "#include <stdio.h>\n\nint main(void) {\n char name[10];\n scanf(\"%s\", name);\n printf(\"hello, %s\n\", name);\n return 0;\n}",
